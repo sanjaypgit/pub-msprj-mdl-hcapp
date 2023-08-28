@@ -1,0 +1,13 @@
+.doctor-card-name {
+    font-size: 16px;
+    font-family: Arial, bold, monospace;
+    color: #1a1919;
+}
+
+.grid-container #button-rate-appointment {
+    text-align: center;
+    background-color: #3f51b5;
+    height: 35px;
+    padding-top: 10px;
+    width: 60%;
+}

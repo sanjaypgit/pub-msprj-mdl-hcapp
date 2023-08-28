@@ -1,0 +1,97 @@
+.doctor-card-name {
+    font-size: 16px;
+    font-family: Arial, bold, monospace;
+    color: #1a1919;
+}
+
+.doctor-card-speciality-ratings {
+    font-size: 14px;
+    color: #1a1919;
+    margin-bottom: 15px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    padding: 0px;
+}
+
+.MuiButton-containedSecondary {
+    color: #fff;
+    background-color: #045221;
+}
+
+.MuiButton-contained {
+    background-color: #20cb0b;
+}
+
+.grid-container #button-book-appointment {
+    text-align: center;
+    background-color: #3f51b5;
+    height: 35px;
+    padding-top: 10px;
+}
+
+.grid-container #button-view-details {
+    background-color: rgb(1, 126, 5);
+    text-align: center;
+    height: 35px;
+    padding-top: 10px;
+}
+
+.MuiInputBase-root {
+    width: 190px;
+}
+
+.displayOff {
+    display: none;
+}
+
+.style-none-option {
+    min-height: auto;
+    width: auto;
+    font-size: 1rem;
+    box-sizing: border-box;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-width: 400;
+    white-space: nowrap;
+    letter-spacing: 0.00938em;
+    padding: 6px 16px;
+    align-items: center;
+    display: flex;
+    position: relative;
+    text-align: left;
+    justify-content: flex-start;
+    cursor: pointer;
+    background-color: transparent;
+    color: inherit;
+    -webkit-font-smoothing: antialiased;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    user-select: none;
+}
+
+.speciality-names {
+    padding: 5px;
+    background-color: #dedddd;
+    border-color: white;
+    border-radius: 5px;
+    color: #595959;
+    font-size: 12px;
+    width: 220px;
+    text-align: center;
+    text-align-all: center;
+}
+
+.label-select-speciality{
+    font-size: medium;
+    font-family: bold, Arial, serif;
+    text-align: left;
+    margin-right: 70px;
+    padding-right: 25px;
+    border-right-width: 25px;
+}

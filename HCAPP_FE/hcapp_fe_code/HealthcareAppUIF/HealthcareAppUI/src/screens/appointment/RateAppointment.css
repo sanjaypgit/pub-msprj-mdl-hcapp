@@ -1,0 +1,20 @@
+.header-rate-appointment {
+    background-color: teal;
+    height: 70px;
+    padding: 11px;
+    color: white;
+    line-height: 70px;
+    text-align: left;
+}
+
+.displayOff {
+    display: none;
+}
+
+.displayOn {
+    display: block;
+}
+
+.highlight-error-in-red {
+    color: red;
+}

@@ -1,0 +1,61 @@
+.header-consultation-app {
+    background-color: teal;
+    height: 35px;
+    padding: 11px;
+}
+
+.logo-consultation-app {
+    background: #ff7f7f;
+    height: 35px;
+    float: left;
+    align-content: center;
+}
+
+.header-title {
+    color: white;
+    margin-left: 10px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.header-title-regloginmodal {
+    background-color: teal;
+    height: 50px;
+    padding: 11px;
+    color: white;
+    line-height: 50px;
+    text-align: left;
+}
+
+.button-login-at-header {
+    float: right;
+}
+
+.button-logout-at-header {
+    float: right;
+}
+
+.tabs-registration-login {
+    margin: 0px 10px 25px 10px;
+}
+
+.displayOff {
+    display: none;
+}
+
+.displayOn {
+    display: block;
+}
+
+.highlight-error-in-red {
+    color: red;
+}
+
+.highlight-error-in-greybox {
+    background: #6e6d6d;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border-bottom-color: red;
+    border-top: 15px;
+}

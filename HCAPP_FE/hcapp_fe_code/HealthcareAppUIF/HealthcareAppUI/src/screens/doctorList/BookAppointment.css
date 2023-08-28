@@ -1,0 +1,29 @@
+.header-book-an-appointment {
+    background-color: teal;
+    height: 70px;
+    padding: 11px;
+    color: white;
+    line-height: 70px;
+    text-align: left;
+}
+
+.displayOff {
+    display: none;
+}
+
+.displayOn {
+    display: block;
+}
+
+.highlight-error-in-red {
+    color: red;
+}
+
+.style-custom-alert {
+    position: static;
+    align-content: center;
+    color: #6e6d6d;
+    background-color: #6e6d6d;
+    margin-left: 45%;
+    margin-right: 10px;
+}

@@ -1,0 +1,23 @@
+.displayOff {
+    display: none;
+}
+
+.displayOn {
+    display: block;
+}
+
+.highlight-error-in-red {
+    color: red;
+}
+
+.reg-login-fail-message {
+    color: red;
+}
+.highlight-error-in-greybox {
+    background: #6e6d6d;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border-bottom-color: red;
+    border-top: 15px;
+}

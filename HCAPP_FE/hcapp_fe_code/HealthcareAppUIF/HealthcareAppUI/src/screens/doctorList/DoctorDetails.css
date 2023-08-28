@@ -1,0 +1,13 @@
+.header-view-details {
+    background-color: teal;
+    height: 70px;
+    padding: 11px;
+    color: white;
+    line-height: 70px;
+    text-align: left;
+}
+
+.doctor-name-style {
+    font-size: 22px;
+    font-family: bold, serif;
+}
